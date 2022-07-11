@@ -1,0 +1,12 @@
+/* starting cmds for    git */
+at the very beggning 
+create a dir "mkdir" then create a file example.txt
+use cmd   " git init " to initilize the repository 
+
+
+you can use the VIM to edit example.txt,
+use "git status"  to check files commited
+use git add example.txt to commit files to working master, to add a commit messgage use git -m commit "a message"
+see the commits so far with 
+"git log"
+
