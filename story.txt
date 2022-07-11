@@ -1,1 +1,11 @@
 a story is not to be told to the rest of the....
+some issue with the new VIM.
+To start typing in the VIM press any key 
+"ESC"
+
+ you should see at the bottom left --INSERT--
+the to save first press ESC the in  the text type in ":w" and hit enter "ENTER",
+to quit the VIM type in ':q' and hit enter 
+
+
+
