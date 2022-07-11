@@ -1,1 +1,3 @@
-this is the chapter 3.txt file 
+this is the chapter 3.txt file climate of the day July 10 partly raining 
+temp C` 22.
+
