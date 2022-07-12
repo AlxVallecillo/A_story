@@ -6,9 +6,15 @@ use cmd   " git init " to initilize the repository
 
 you can use the VIM to edit example.txt,
 use "git status"  to check files commited
-use git add example.txt to commit files to working master, to add a commit messgage use git -m commit "a message"
+use "" git add example.txt "" to commit files to working master, to add a commit messgage use git -m commit "a message"
 see the commits so far with 
 "git log"
 
+to check file diferrences use "git diff "
 
-kjbfdsvbjvjnvnvrijvnornvijnrvnrnvrnvinrvrv
+to go back to file last version state use " git checkout filename.txt "
+to be able to add the project to a remote repository, first go to github.com create an account and then create a repository that we will be using to save the project on that repository.
+
+use type in "" git remote add origin <URL of the repository> "
+to push the repository to the remote web repository use cmd
+"" git push -u origin master ""
