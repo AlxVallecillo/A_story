@@ -1,0 +1,8 @@
+  # some features for experimental. v.1.1.3
+
+  async function ping (){
+    const pi = 3.14156 ;
+
+    let operation  = 3 * pi ;
+    return operation;  }
+    
