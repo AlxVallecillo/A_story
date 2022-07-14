@@ -7,5 +7,5 @@ To start typing in the VIM press any key
 the to save first press ESC the in  the text type in ":w" and hit enter "ENTER",
 to quit the VIM type in ':q' and hit enter 
 
-
+ Vim editor 
 
